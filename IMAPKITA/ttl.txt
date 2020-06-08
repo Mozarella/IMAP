@@ -1,0 +1,32 @@
+Juduk Paper FIF : Conversational Recommender System with Explanation Facility Using Semantic Reasoning
+Judul : Tidak terlalu panjang dan tidak terlalu pendek . namun judul ini sudah informatif dan jelas
+metode yang digunakan jenis metode apa.
+
+Identitas penulis : Penulis paper ini sudah benar dalam hal menuliskan identitas penulis masing-masing 
+tidak perlu disertai dengan gelar penulis , disertakan alamat email instuisi (namun ada satu penulis yang tidak
+menggunakan email institusi ) dan urutan penulis sudah sesuai.
+
+Abstrak : abstrak dari paper ini sudah berisi tentang permasalahan yang didapat,latar belakang, 
+, solusi yang ditawarkan  ,metode yang digunakan untuk menyelesaikan permasalahan dan juga solusi.
+Keywords : sudah disertakan kata kunci berupa kata yang nantinya paling sering digunakan dalam paper ini
+
+Introduction : Isi dari pendahuluan sudah menunjukkan hubungan antar permasalahan dan solusi dari penulis.
+penulis juga menjelaskan metode yang akan digunakan pada penilitian ini dan tujuan dari penelitian ini 
+juga sudah disertakan.meskipun pendahuluan ini informatif dan jelas tapi penulisan dari pendahuluan ini terlalu
+panjang dan juga penulis tidak menyertakan index dari nomor yang digunakan sebagai referensi 
+
+Related Works : Studi terkait tidak dituliskan dalam paper ini .
+
+Tabel dan Gambar 
+fig I,captionnya tidak memberikan penjelasan yang jelas kepada pembaca.
+fig II,captionnya tidak memberikan penjelasan yang jelas kepada pembaca.
+fig3, gmbr tersebt sudah jls sehingga pembaca mudah memahami gmbr trsbt.
+fig4, gmbr tersebt sudah jls sehingga pembaca mudah memahami gmbr trsbt.
+fig5, gmbrnya rumit dan tidak jelas sehingga sult di pahami.
+fig6, gmbr tersebt sulit dipahami tetapi captionya dapat membantu pembaca lebih memudahmemhami.
+fig7, gmbr tersebt sulit dipahami tetapi captionya dapat membantu pembaca lebih memudahmemhami.
+fig 8,captionnya tidak memberikan penjelasan yang jelas kepada pembaca.
+fig 9,captionnya tidak memberikan penjelasan yang jelas kepada pembaca.
+Tabel 
+tabel I, tabel dengan tampilan sederhana dan sangat jelas.
+tabel 2, tabel dengan tampilan sudah bagus dan tabel header di hitamkan.
